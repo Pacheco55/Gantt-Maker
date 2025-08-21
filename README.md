@@ -43,8 +43,7 @@
 - **Cambio instantáneo** entre modos con un solo clic
 
   
-<img width="202" height="122" alt="Image" src="https://github.com/user-attachments/assets/7dacfe57-3602-4582-8e04-69642bfbfc72" />
-<img width="211" height="139" alt="Image" src="https://github.com/user-attachments/assets/22ea5ef3-6b59-4c31-b4a4-c8adcd7106f8" />
+![Image](https://github.com/user-attachments/assets/0d549413-7f65-44ea-9c23-48b290c2c8ba)
 
 ### 👥 Gestión Visual de Equipos
 - **Asignación visual** por colores únicos por integrante
@@ -54,8 +53,8 @@
 - **Roles y especialidades** personalizables
 
 
-<img width="532" height="471" alt="Image" src="https://github.com/user-attachments/assets/f8fd46e7-7a38-4436-ab4b-6e262c7e4b02" />
-  
+
+![Image](https://github.com/user-attachments/assets/fe4de4ee-a8b3-4b76-8a32-37c02dfb2acd)  
 - **Arrastra y suelta** intuitivo para reassignaciones
 
 ### ⚡ Interactividad Total
